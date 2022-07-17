@@ -1,4 +1,4 @@
-#$versionPy = Get-Content terminal22/version.py
+#$versionPy = Get-Content terminal/version.py
 #$versionPy -match "'(?<year>\d{4})\.(?<major>\d+).(?<minor>\d+)'"
 #$versionYear = [int]$Matches.year
 #$versionMajor = [int]$Matches.major
